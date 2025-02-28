@@ -47,7 +47,7 @@ h3 {
 }
 
 h4 {
-  color: var(--grey);
+  color: #ccc;
   font-size: 0.875rem;
   font-weight: 700;
   margin-bottom: 0.5rem;
